@@ -1,0 +1,81 @@
+.top_bar
+{
+	background-color: #F26522;
+	padding:5px 0;
+}
+.social-icon
+{
+	margin-right:4px;
+}
+.contact-info
+{
+	color: white;
+	font-size: 15px;
+}
+.my_menu
+{
+	margin-top: 27px;
+}
+ .navbar-default 
+{
+	background-color: #fff;
+	border:none;
+}
+.my_menu .navbar-nav .active a,.my_menu .navbar-nav .active a:hover
+{
+	background-color: #F26522;
+	color:#fff;
+}
+.my_menu .navbar-nav li a:hover
+{
+	background-color: #F26522;
+	color:#fff;
+}
+.lang
+{
+	margin-top: 75px;
+}
+.con_class
+{
+  background: radial-gradient(circle,#009cde,#003087);
+  padding: 25px 0;	
+}
+.con_class h1
+{
+	color: white;
+}
+.con_class .space_class
+{
+	margin-top: 25px;
+}
+.footer
+{
+	background: #333333;
+	padding: 20px 0;
+	margin-top: 10px;
+	margin-bottom: 5px;
+	color: white;
+}
+.footer p
+{
+  color: white;
+}
+.footer ul
+{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+.footer ul li a
+{
+    color:white;
+    font-size: 15px;
+}
+
+
+
+
+  @media only screen
+{
+	.my_menu .pull-right(float: none !important;)
+}
